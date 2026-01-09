@@ -1,17 +1,19 @@
 ## 👨‍💻 Hi, I’m Abhishek
 
-I’m passionate about **full-stack development** and **DevOps**, building end-to-end applications from backend APIs to frontend interfaces, and deploying them in real environments.  
+I’m interested in **full-stack development** and **DevOps**, and I enjoy understanding how applications work end-to-end — from designing backend APIs and building frontend interfaces to learning how systems are deployed and run in real environments.
 
-I’m also exploring **AI agents** — autonomous programs that monitor systems, process information, and trigger actions. I’m learning how to combine LLMs with tools like tools like web automation, scheduling, and notifications. Alongside this, I’m building knowledge of **Next.js**, **Linux fundamentals**, **AWS fundamentals**, and **Docker** to build and maintain production-ready systems.  
+Lately, I’ve been exploring **AI agents**, focusing on how autonomous programs can observe changes, make decisions, and trigger actions. Learning to combine LLMs with tools like web automation, scheduling, and notifications.Alongside this, I’m learning **Next.js**, **Linux fundamentals**, **cloud basics (AWS)**, and **Docker** to understand how modern applications are built and prepared for production.
 
----
+--
 
-### 💻 Currently working with
+### 💻 Currently Working With
 
-**Frontend:** React.js, Next.js (learning), HTML, CSS, Tailwind CSS, Bootstrap  
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
 **Backend:** Node.js, Express.js, REST APIs  
-**Database:** MongoDB, MySQL   
+**Database:** MongoDB, MySQL  
+**DevOps / Infra (learning):** Docker, Linux basics, AWS fundamentals  
 **Programming & Tools:** JavaScript, Python, Git
+
 
 
 
