@@ -4,7 +4,6 @@ I’m interested in **full-stack development** and **DevOps**, and I enjoy under
 
 Lately, I’ve been exploring **AI agents**, focusing on how autonomous programs can observe changes, make decisions, and trigger actions. Learning to combine LLMs with tools like web automation, scheduling, and notifications.Alongside this, I’m learning **Next.js**, **Linux fundamentals**, **cloud basics (AWS)**, and **Docker** to understand how modern applications are built and prepared for production.
 
---
 
 ### 💻 Currently Working With
 
