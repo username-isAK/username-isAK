@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👨‍💻 Hi, I am Abhishek
 
-<!--
-**username-isAK/username-isAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in **full-stack development** and **DevOps**, with a focus on understanding how applications are built, deployed, and scaled.
 
-Here are some ideas to get you started:
+### 💡 Interests
+- Full-stack web development  
+- Backend systems & APIs  
+- DevOps fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Python, C++, SQL  
+- JavaScript, Node.js, Express.js, React.js  
+- REST APIs, FastAPI  
+- Git, GitHub, MongoDB Atlas  
+
+### 🌱 Currently Learning
+- Next.js  
+- Linux
+- Docker 
+- Building AI agents
