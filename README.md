@@ -10,8 +10,7 @@ I’m actively building projects using **React**, **Node.js**, and **databases**
 
 ### 💻 Currently Working With
 
-**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js, REST APIs  
+**Web Technologies:** Node.js, Express.js, React.js, RESTAPIs    
 **Database:** MongoDB, MySQL  
 **DevOps / Infra (learning):** Docker, Linux basics, AWS fundamentals  
 **Programming & Tools:** JavaScript, Python, Git
